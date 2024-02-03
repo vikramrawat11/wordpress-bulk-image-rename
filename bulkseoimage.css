@@ -1,0 +1,45 @@
+.bisr_error{color:#FF0000; font-size:14px;}
+
+.delete_confirm { 
+background: #fff none repeat scroll 0 0;
+font-size:18px;
+font-weight:bold;
+margin: 5px 0 15px;
+ box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+ padding: 1px 12px;
+}
+div.delete_confirm p {
+ margin: 0.5em 0;
+ padding: 2px;
+ font-size:18px;
+font-weight:bold;
+	
+	}
+.delete_keep
+{
+ background: #0085ba none repeat scroll 0 0;
+    border-color: #0073aa #006799 #006799;
+    box-shadow: 0 1px 0 #006799;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 0 -1px 1px #006799, 1px 0 1px #006799, 0 1px 1px #006799, -1px 0 1px #006799;
+	 border-radius: 3px;
+    border-style: solid;
+    border-width: 1px;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 13px;
+    height: 28px;
+    line-height: 26px;
+    margin: 0;
+    padding: 0 10px 1px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+ a.delete_keep:hover{
+color:#FFFFFF !important;
+}
+.seocategory_name{
+color:#66CC00;
+}

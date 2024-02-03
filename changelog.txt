@@ -1,0 +1,6 @@
+*** Bulk Image Seo Renamer  Changelog **
+
+2019-08-04- version 2.0
+
+* Fix Warning in renaming process
+* Fix Warning on edit SEOCategory
